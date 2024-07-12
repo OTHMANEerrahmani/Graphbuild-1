@@ -1,0 +1,9 @@
+pandas
+numpy
+nltk
+scikit-learn
+requests
+beautifulsoup4
+amazoncaptcha
+selenium
+webdriver-manager
